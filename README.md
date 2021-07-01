@@ -11,5 +11,4 @@ Developed for Software Engineering Course at the University of Illinois at Chica
 
 ## Use Case Diagram
 
-![use case diagram](https://user-images.githubusercontent.com/57969397/124070735-e95ee700-da03-11eb-9c4e-be6b1d69cbb5.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/57969397/124070735-e95ee700-da03-11eb-9c4e-be6b1d69cbb5.png" height="500"></p>
