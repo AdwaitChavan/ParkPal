@@ -31,5 +31,5 @@ At the conclusion of the Park Pal App project, we realized how important it is t
 Of course, this did come with its own set of challenges. One of the biggest difficulties to overcome was being completely online for the end of the semester. This made meeting harder and it made presenting harder. But it also taught us remote engineering and gave us a good experience of working far yet together.
 Also, we used the method of directly analyzing the experience of users in the national parks, along with looking at the workings of park rangers, and realized that there needs to be a means to have better communication between users and park rangers. We also tried to hold online user surveys to understand their opinions, but those weren’t as useful as live interaction with visitors, helping us get their first hand users.
 
-Apart from this, we also got to use the Requirements Gathering Technique of ‘Personas’, wherein we created an imaginary personality, using it as our user requirements guide. The Whiteboard thinking diagrams proved to be helpful as well.
+Apart from this, we also got to use the Requirements Gathering Technique of ‘Personas’, wherein we created an imaginary personality, using it as our user requirements guide. The Whiteboard Thinking diagrams proved to be helpful as well.
 
